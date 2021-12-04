@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+.MovieCard {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
